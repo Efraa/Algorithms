@@ -1,4 +1,4 @@
-// https://www.urionlinejudge.com.br/judge/en/problems/view/1171
+// https://www.urionlinejudge.com.br/judge/en/problems/view/1459
 
 const input = require('fs').readFileSync('/dev/stdin', 'utf8').split('\n');
 const objectsInScene = Number(input[0]);
