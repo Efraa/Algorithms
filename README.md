@@ -3,7 +3,7 @@
 #### Overview
 
 > This repository contains solutions to problems from different algorithmic competency platforms.
-> Problems solved with JavaScript.
+> Problems solved with JavaScript and Golang.
 
 #### Platforms
 
